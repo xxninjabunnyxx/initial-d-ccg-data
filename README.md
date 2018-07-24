@@ -1,1 +1,1 @@
-# initial_d_ccg_raw_data
+Raw data from the Initial D CCG
